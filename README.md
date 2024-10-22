@@ -5,7 +5,8 @@ Quick stats about me:
 
 - 🌱 I’m currently learning c++ and how to edit and read ram / src using assembler
 - 💬 I can help you with most stuff on python.
-- :man_technologist: Currently working as a Fullstack developer with Kotlin and vue/quasar
+- :man_technologist: Working as a Fullstack developer with Python as well as maintaining IT infrastructure for an internet Service provider.
+- :man_technologist: Used to work as a Fullstack developer with Kotlin and vue/quasar
 
 ---
 
@@ -20,6 +21,7 @@ Quick stats about me:
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" **alt="Vue" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Vue" **alt="Vue" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_Proxmox.svg/800px-Logo_Proxmox.svg.png" title="Proxmox" **alt="Proxmox" width="160" height="40"/>
 </div>
 <div>
   <h4>What I use from time to time</h4>
